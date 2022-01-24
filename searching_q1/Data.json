@@ -1,0 +1,28 @@
+[
+	{
+		"price": "100",
+		"name": "Lays",
+		"description": "Crispy, potato chips, airy",
+		"review": "5"
+			},
+	{
+		"price": "110",
+		"name": "Real",
+		"description": "made from real oranges,sweet yummy juice",
+		"review": "4.5"
+		
+	},
+	{
+		"price": "10000",
+		"name": "lamp",
+		"description": "brightening,furniture,showpiece beautiful design",
+		"review": "3"
+	},
+	{
+		"price": "50000",
+		"name": "washing machine",
+		"description": "use to wash clothes,,helps in efficent handling of clothes,appliances",
+		"review": "3.3"
+		}
+	
+]
