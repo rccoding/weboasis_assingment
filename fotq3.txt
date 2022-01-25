@@ -12,6 +12,8 @@ From inserting chips in human brain to robot based world, the future is promisin
 
 							      HOW DO I ENVISION MYSELF?
 As an aspiring data scientist and ai developer ,i wish to contribute in developing devicies such as a blind person can visualize the world around him/her
-i envision myself working on an another technical world made by maybe another company and developing techniques,using sql or mongodb to store all the informaton to process by a machine which will then learn to process all those thing with the help of algorithms given by machine learning technique,i also have interest in block chain development so i would contribute to that as well.
+i envision myself working on an another technical world made by maybe another company and developing techniques,using sql or 
+mongodb to store all the informaton to process by a machine which will then learn to process all those thing with the help of 
+algorithms given by machine learning technique,i also have interest in block chain development so i would contribute to that as well.
 
 
